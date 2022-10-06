@@ -1,16 +1,13 @@
-### Hi there 👋
+## Salve!
 
-<!--
-**imharuo/imharuo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🍫 Atualmente sou CEO da Amatsu
+  Somos uma doceria especializada em brownies artesanais, partindo de uma receita original e feita com amor. Temos como objetivo proporcionar ou resgatar experiências     gustativas de felicidade e carinho.
 
-Here are some ideas to get you started:
+- 🎓 Formado em Produção Multimídia
+- 📚 Estudando Python
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<div align="center">
+  <a href="https://github.com/imharuo">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=imharuo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imharuo&layout=compact&langs_count=7&theme=midnight-purple"/>
+</div>
