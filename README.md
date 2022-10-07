@@ -12,7 +12,6 @@
 - 🎓 Formado em Produção Multimídia
 - 📚 Estudando Python
 
-
 <div>
   <a href="https://github.com/imharuo">
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=imharuo&show_icons=true&theme=midnight-purple&include_all_commits=true&count_private=true"/>
