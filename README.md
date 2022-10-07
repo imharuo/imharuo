@@ -4,7 +4,7 @@
 <a href="https://www.behance.net/imharuo" target="_blank"><img src="https://img.shields.io/badge/-Behance-blue?style=for-the-badge&logo=behance&logoColor=white"></a>
 </div>
 
-## Salve!
+## Olá!
 
 - 🍫 Atualmente sou CEO da Amatsu
   Somos uma doceria especializada em brownies artesanais, partindo de uma receita original e feita com amor. Temos como objetivo proporcionar ou resgatar experiências     gustativas de felicidade e carinho.
