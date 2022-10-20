@@ -6,10 +6,7 @@
 
 ## Salve!
 
-- 🍫 Atualmente CEO da Amatsu.
-
-  Somos uma doceria especializada em brownies artesanais, partindo de uma receita original e feita com amor. Temos como objetivo proporcionar ou resgatar experiências     gustativas de felicidade e carinho.
-
+- 🍫 CEO da Amatsu.
 - 🎓 Formado em Produção Multimídia
 - 📚 Estudando Python
 
