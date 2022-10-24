@@ -6,9 +6,10 @@
 
 ## Salve!
 
-- 🍫 CEO da Amatsu.
+-  🍫 CEO da Amatsu.
 - 🎓 Formado em Produção Multimídia
 - 📚 Estudando Python
+- 📌 Próximos estudos: html/css, javascript e mysql
 
 <div>
   <a href="https://github.com/imharuo">
