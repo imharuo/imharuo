@@ -6,7 +6,7 @@
 
 ## Salve!
 
--  🍫 CEO da Amatsu.
+-  🍫 CEO na Amatsu.
 - 🎓 Formado em Produção Multimídia
 - 📚 Estudando Python
 - 📌 Próximos estudos: html/css, javascript e mysql
