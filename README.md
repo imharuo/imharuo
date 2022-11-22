@@ -8,8 +8,11 @@
 
 -  🍫 CEO na Amatsu.
 - 🎓 Formado em Produção Multimídia
-- 📚 Estudando Python
-- 📌 Próximos estudos: html/css, javascript e mysql
+ 
+📚 Estudos:
+- Programação em Python do básico ao avançado ✅
+- Básico html/css ✅
+- 📌 Próximos estudos: javascript, mysql e aprofundamento em html/css
 
 <div>
   <a href="https://github.com/imharuo">
