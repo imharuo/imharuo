@@ -14,7 +14,9 @@
 - Básico html/css ✅
 - Internet ✅
 - OS e conhecimento geral ✅
-- 📌 Próximos estudos: mysql, javascript e aprofundamento em html/css
+- SQL ⏰
+- Javascript 📋
+- Aprofundamento em html/css 📋
 
 <div>
   <a href="https://github.com/imharuo">
